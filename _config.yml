@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: StarLee's Home
 subtitle: ''
 description: ''
 keywords:
@@ -103,6 +103,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/iamstarlee/iamstarlee.github.io
+  repo: git@github.com:iamstarlee/iamstarlee.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: master
